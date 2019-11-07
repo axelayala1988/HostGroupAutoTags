@@ -31,3 +31,6 @@ There are some xonsiderations to keep in mind to use this program:
     You would need to either increase/decrease the number of parameters in your naming conventions without exceeeding the limit (4)
 4.  Pass only the tenant identifier (xyz12345.live.dynatrace.com) or the cluster id and environment (n01.ydm947.dynatrace-managed.com/e/606c6d76-6695-4487-ba5c-fafdfd6e278b), without slashes (/)
 5.  The API Token needs both read and write configuration permitions.
+
+# Results
+The end result will be the creation of automatically applied tags for each one of the passed parameters, and the value dinamically extracted from the host group will be applied to the relevant hosts, process groups and services.
