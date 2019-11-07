@@ -36,3 +36,10 @@ There are some xonsiderations to keep in mind to use this program:
 The end result will be the creation of automatically applied tags for each one of the passed parameters, and the value dinamically extracted from the host group will be applied to the relevant hosts, process groups and services.
 
 ### Console output
+![Console](https://github.com/axelayala1988/HostGroupAutoTags/blob/master/images/consoleOutput.jpg)
+
+### Host tags example
+![Host](https://github.com/axelayala1988/HostGroupAutoTags/blob/master/images/hostTagsExample.jpg)
+
+### Service tags example
+![Service](https://github.com/axelayala1988/HostGroupAutoTags/blob/master/images/serviceTagsExample.jpg)
