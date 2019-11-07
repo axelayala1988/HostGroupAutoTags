@@ -34,3 +34,5 @@ There are some xonsiderations to keep in mind to use this program:
 
 # Results
 The end result will be the creation of automatically applied tags for each one of the passed parameters, and the value dinamically extracted from the host group will be applied to the relevant hosts, process groups and services.
+
+### Console output
