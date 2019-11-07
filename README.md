@@ -6,7 +6,7 @@ Before running the executable, make sure you install the required module
 ```
 pip install -r prerequisites.txt
 ```
-You will also need Python installed on your local to be able to use it.
+You will also need Python installed on your local to be able to use it. Once you have installed the prerequisites, donwload or clone the project, navigate to the path and locate the **__HostGroupAutoTags__** executable and run it. Pass the correct information and the progeam will automatically create the related tags.
 
 # Considerations
 There are some xonsiderations to keep in mind to use this program:
